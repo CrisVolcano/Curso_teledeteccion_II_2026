@@ -10,6 +10,18 @@ Este repositorio centraliza los materiales del curso **GF0662 - Teledeteccion** 
 
 El curso introduce fundamentos, herramientas y aplicaciones de la teledeteccion para el analisis del territorio mediante sensores remotos, imagenes satelitales, plataformas en la nube y metodos de procesamiento digital de imagenes.
 
+## Indice de acceso rapido
+
+- [Programa del curso](docs/programa_curso_2026/Programa_Teledeteccion_2026_contenidos_bibliografia%20(1).docx)
+- [Bibliografia obligatoria](resources/bibliografia/obligatoria/)
+- [Bibliografia complementaria](resources/bibliografia/complementaria/)
+- [Recursos NASA ARSET](resources/bibliografia/nasa_arset/)
+- [Guias para crear cuentas](extras/)
+- [Laboratorios](labs/)
+- [Scripts](scripts/)
+- [Datos de practica](data/)
+- [Pagina del curso](index.html)
+
 ## Estructura del repositorio
 
 - `docs/`: programa del curso, documentos academicos e instrucciones generales.
